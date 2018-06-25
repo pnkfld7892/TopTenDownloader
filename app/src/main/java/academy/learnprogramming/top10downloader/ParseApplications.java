@@ -44,7 +44,7 @@ public class ParseApplications {
                             currentRecord = new FeedEntry();
                         }
                         break;
-
+//testpush
                     case XmlPullParser.TEXT:
                         textValue = xpp.getText();
                         break;
